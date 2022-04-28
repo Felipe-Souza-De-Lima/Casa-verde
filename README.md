@@ -1,2 +1,1 @@
-# Casa-verde
- landing page sobre plantas
+# Casa Verde
